@@ -1,6 +1,8 @@
 body {
   background: #dfe7ef;
   font-family: "Bitter", serif;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
 * {
